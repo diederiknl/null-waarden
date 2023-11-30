@@ -1,2 +1,2 @@
 # null-waarden
-Een database om te spelen met nullwaarden
+Een sqlite database om te spelen met nullwaarden
